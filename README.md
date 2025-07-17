@@ -26,13 +26,21 @@
 
 ---
 
+## 📁 Project Structure
 
+```
+Keeper-App/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ ├── App.jsx
+│ │ └── [Other Components...]
+│ └── index.js
+├── package.json
+└── README.md
 
-<pre><code>
-## 📁 Project Structure ``` 
-Keeper-App/ ├── public/ │ └── index.html ├── src/ │ ├── components/ │ ├── App.jsx │ └── index.js ├── package.json └── README.md ``` </code></pre>
-
-
+```
 
 ---
 
